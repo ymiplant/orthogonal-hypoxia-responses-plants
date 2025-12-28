@@ -1,2 +1,2 @@
-Scripts in this folder generate individual figures from the paper.
-Each script corresponds to one figure panel.
+Scripts in this folder generate figures and figure panels from the paper.
+Each script corresponds to a specific simulation or fitting analysis.
